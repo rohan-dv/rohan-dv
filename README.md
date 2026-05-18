@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Yadav</h1>
 
-<h3 align="center">Aspiring Software Engineer from India </h3>
+<h3 align="center">3rd Year Computer Science Student at IIITD </h3>
 
 <p align="center">
 📫 rohan8dv@gmail.com
