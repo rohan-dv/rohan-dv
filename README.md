@@ -7,8 +7,7 @@
 <p align="left">
 <a href="https://www.codechef.com/users/focus_dude_27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="focus_dude_27" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rohanyadav27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohanyadav27" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/@rohandv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@rohandv" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/110043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="110043" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/profile/rohandv?from=explore&tab=activity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@rohandv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
